@@ -1,3 +1,3 @@
-module github.com/max/slice_video
+module github.com/dev-web-hub/slice_video
 
 go 1.22

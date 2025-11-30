@@ -4,7 +4,7 @@ import (
     "encoding/json"
     "fmt"
     "os"
-    "github.com/max/slice_video/internal"
+    "yourverb/internal"
 )
 
 func main() {
